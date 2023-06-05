@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [.gitignore](#.gitignore)
+- [.gitignore](https://github.com/wareishelen/MTEC-340-Ware/blob/main/.gitignore)
 - [Assignments](#assignments)
   - [My Favorite Game](#my-favorite-game)
 
