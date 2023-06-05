@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- ['.gitignore'](#gitignore)
+- [.gitignore](#.gitignore)
 - [Assignments](#assignments)
   - [My Favorite Game](#my-favorite-game)
 
